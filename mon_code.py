@@ -11,3 +11,6 @@ ax.plot(x,f(x))
 
 plt.show()
 
+
+def test():
+    return "Bienvenue"
